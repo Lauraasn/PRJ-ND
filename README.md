@@ -1,5 +1,4 @@
-# Laura
-Entrega parcial do projeto Negritude em Debate.
+# PRJ ND
 Oi prof! Nunca tinha trabalhado com Node antes, foi um pouco difícil no início,
 mas acho que já estou pegando o jeito. Por enquanto, isso foi o que eu consegui fazer, 
 mas eu sei que vou melhorar com a prática. 
